@@ -1,2 +1,0 @@
-# Data-Science-Programming-Course
-This repository is dedicated to showcasing the culmination of my journey through the Data Science Programming Course, a pivotal component of my pursuit within the Masters program in Business Analytics at The University of Texas at Austin, McCombs School of Business. Enclosed within the project folder, you'll find an insightful presentation and an in-depth report that encapsulate the knowledge and expertise gained throughout the course.
